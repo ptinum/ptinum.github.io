@@ -1,0 +1,17 @@
+.nav-float {
+    display: inline-flex;
+}
+
+ul li a {
+    color: #000000;
+}
+
+ul li a:hover {
+    color: #000000;
+}
+
+ul li a.a-link:hover {
+    color: #000000;
+    text-decoration: underline;
+    font-weight: bold;
+}
