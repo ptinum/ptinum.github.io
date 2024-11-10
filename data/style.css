@@ -1,10 +1,10 @@
 body{
-  background-image: url('./data/paper.jpg');
+  background-image: url('data/paper.jpg');
 }
 
 @font-face {
-    font-family: 'NeoDunggeunmo';
-    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2001@1.3/NeoDunggeunmo.woff') format('woff');
+    font-family: 'aCinema';
+    src: url('data/a시네마M.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 }
