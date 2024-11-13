@@ -27,3 +27,36 @@ ul li a.a-link:hover {
     text-decoration: underline;
     font-weight: bold;
 }
+
+::-webkit-scrollbar {
+  display: none;
+}
+
+div{
+  -webkit-touch-callout: none;
+  user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  -webkit-user-select: none;
+}
+
+a {
+  text-decoration-line: none;
+/*   text-decoration-line: underline; */
+/*   text-decoration-line: overline; */
+/*   text-decoration-line: line-through; */
+/*   text-decoration-line: underline line-through overline; */
+}
+
+a:link {
+  color : black;
+  text-decoration: none;
+}
+a:visited {
+  color : black;
+  text-decoration: none;
+}
+a:hover {
+  color : #b0bbd2;
+  text-decoration: underline;
+}
