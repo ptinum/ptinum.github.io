@@ -11,6 +11,7 @@ body{
 div{
     background-image: url('./data/paper.jpg');
     background-color: #F0F0F0;
+}
 
 .nav-float {
     display: inline-flex;
