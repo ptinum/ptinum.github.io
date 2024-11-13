@@ -1,12 +1,15 @@
-background {
-  background-image: url('./data/background.png');
-}
-
 @font-face {
-    font-family: 'aCinema';
-    src: url('data/a시네마M.ttf') format('truetype');
+    font-family: '낼나 예샘체';
+    src: url('data/낼나 예샘체.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
+}
+
+body{
+  font-family: '낼나 예샘체';
+  -ms-overflow-style: none;
+  background-image: url('./data/background.png');
+  background-color: #F0F0F0;
 }
 
 .nav-float {
