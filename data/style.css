@@ -1,16 +1,16 @@
 @font-face {
     font-family: '낼나 예샘체';
     src: url('data/낼나 예샘체.ttf') format('truetype');
-    font-weight: normal;
-    font-style: normal;
 }
 
 body{
-  font-family: '낼나 예샘체';
-  -ms-overflow-style: none;
-  background-image: url('./data/background.png');
-  background-color: #F0F0F0;
+    font-family: '낼나 예샘체';
+    -ms-overflow-style: none;
 }
+
+div{
+    background-image: url('./data/background.png');
+    background-color: #F0F0F0;
 
 .nav-float {
     display: inline-flex;
