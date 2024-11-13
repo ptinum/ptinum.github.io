@@ -6,9 +6,6 @@
 body{
     font-family: '낼나 예샘체';
     -ms-overflow-style: none;
-}
-
-div{
     background-image: url('./data/paper.jpg');
     background-color: #F0F0F0;
 }
