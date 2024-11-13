@@ -1,10 +1,10 @@
 @font-face {
-    font-family: '낼나 예샘체';
-    src: url('data/낼나 예샘체.ttf') format('truetype');
+    font-family: '세종글꽃체';
+    src: url('data/SejongGeulggot.otf') format('opentype');
 }
 
 body{
-    font-family: '낼나 예샘체';
+    font-family: '세종글꽃체';
     -ms-overflow-style: none;
     background-image: url('./data/paper.jpg');
     background-color: #F0F0F0;
